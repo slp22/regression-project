@@ -1,5 +1,8 @@
-# regression-project
 # Exporting American Movie Box Office Hits 
+
+#MadeAtMetis
+
+# LINEAR REGRESSION 
 
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?<br/>
