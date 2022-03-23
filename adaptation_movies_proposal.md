@@ -1,4 +1,6 @@
-# Exporting American Movie Box Office Hits 
+# Exporting American Movie Adaptations 
+
+## Proposal
 
 ## Question
 * What is the question behind your analysis or model and what practical impact will your work have?<br/>
