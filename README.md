@@ -10,4 +10,4 @@ Regression | Deliverables
 * Data: [adaptation_movies_webscraping](https://github.com/slp22/regression-project/blob/main/adaptation_movies_webscraping.ipynb)
 
 * Slides: [adaptation_movies_slides](https://github.com/slp22/regression-project/blob/main/adaptation_movies_slides.pdf)
-* Summary: []()
+* Summary: [regression_movies_summary](https://github.com/slp22/regression-project/blob/main/regression_movies_summary.ipynb)
