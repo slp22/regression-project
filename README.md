@@ -1,4 +1,4 @@
-#MadeAtMetis | Regression | Deliverables
+#MadeAtMetis | Regression Deliverables
 
 ## Exporting American Movie Box Office Hits   
 
